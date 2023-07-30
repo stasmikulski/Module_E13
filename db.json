@@ -1,0 +1,18 @@
+{
+    "cats": [
+        { "id": 1, "name": "Chernysh", "color": "black" },
+        { "id": 2, "name": "Belka", "color": "white" },
+        { "id": 3, "name": "Nurka", "color": "tiger" },
+        { "id": 4, "name": "Gerda", "color": "grey" }
+    ],
+    "dogs": [
+        { "id": 1, "name": "Bentley", "breed": "hound" },
+        { "id": 2, "name": "Rogers", "breed": "boxer" },
+        { "id": 3, "name": "Sunny", "breed": "collie" },
+        { "id": 4, "name": "Belka", "breed": "mobs" }
+    ],
+    "birds": [
+        { "id": 1, "name": "Tweety", "color": "yellow" },
+        { "id": 2, "name": "Wally", "color": "red" }
+    ]
+}
