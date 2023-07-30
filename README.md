@@ -1,5 +1,5 @@
-# [Webpack-dev-server + minimizers, linters, husky](http://localhost:8081/)
-## [Skillfactory](https://skillfactory.ru) FPW homework
+# Webpack-dev-server + minimizers, linters, husky
+## Skillfactory FPW homework Module E13
 
 Webpack, JS + CSS import, HtmlWebpackPlugin, CssMinimizerPlugin, ESLint, Stylelint, Webpack-dev-server with inline-source-map and Hot Module Replacement, Production-mode, Json-server, Husky.
 <hr>
