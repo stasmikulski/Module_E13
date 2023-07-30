@@ -32,8 +32,7 @@ production-mode: webpack.prod.js
 npm run start-prod
 ```  
 
-JSON-server
-Если не установлен, то установить: npm install -g json-server 
+JSON-server // Если не установлен, то установить: npm install -g json-server 
 ```bash
 json-server --watch db.json
 ```
